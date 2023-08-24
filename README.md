@@ -5,10 +5,13 @@ Live Demo
 You can view the live demo of the project [here.](https://90541102817.github.io/final-project/)
 
 Requirements
+
 Folder Structure: Maintain a separate folder for the CSS file.
 CSS Reset: Implement a CSS reset at the beginning of the stylesheet.
+
 Mobile-First Design: The styling should prioritize mobile views, with media queries to handle larger screens.
 Container Width: The maximum width for the main container is set to 1200px.
+
 Media Query: Implement a media query for screens with a size of 760px and above.
 Typography: Use the 'Open Sans' font from Google Fonts for the entire webpage.
 Color Palette: The primary colors used in the design are:
@@ -23,6 +26,7 @@ CSS Validation: Ensure that the CSS code is valid.
 CSS Formatting: Properly format the CSS for readability.
 GitHub Pages: Provide a proper link to the GitHub Pages site.
 Design Adherence: The final design should closely match the provided mockup.
+
 Comments: Include comments in the CSS and any significant changes made to the HTML.
 Technologies Used
 HTML5
